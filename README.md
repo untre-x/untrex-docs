@@ -28,7 +28,7 @@ UntreX uses Supabase to power:
 
 Read the complete guide here:
 
- docs/supabase-integration.md
+**docs/supabase-integration.md**
 
 ## Resources
 
